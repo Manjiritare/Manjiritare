@@ -83,3 +83,4 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=Manjiritare&theme=redical">
 </p> 
 <hr>
+Don't Forget to Follow Back! 😉
