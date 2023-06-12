@@ -1,5 +1,5 @@
 
-<!--  https://ritik307.github.io/portfolio/  -->
+<!--  Profile View  -->
 <p align="center">
  
 </p align="center">
@@ -79,8 +79,11 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Manjiritare&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-<p align = "center">
+<!-- <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Manjiritare&theme=redical">
-</p> 
+</p>  -->
 <hr>
+<p align = "center">
 Don't Forget to Follow Back! 😉
+</p>
+<!-- <hr> -->
