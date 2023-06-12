@@ -45,7 +45,7 @@
 <!-- <a href="mailto: ritikpr307@gmail.com">
  <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 </a> -->
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
+<a href="https://www.linkedin.com/in/manjiri-tare-087467244/">
  <img src="https://img.shields.io/badge/-Manjiri Tare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manjiri-tare-087467244/"/>
 </a>
 <!--  <a href="https://twitter.com/ritikhere307">
