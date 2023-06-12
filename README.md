@@ -45,7 +45,7 @@
 <a href="https://www.linkedin.com/in/manjiri-tare-087467244/">
  <img src="https://img.shields.io/badge/-Manjiri Tare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manjiri-tare-087467244/"/>
 </a>
-<a href="mailto: https://linktr.ee/manjiritare29">
+<a href="https://linktr.ee/manjiritare29">
  <img src="https://img.shields.io/badge/-manjiritare29-green?style=flat-square&logo=linktree&logoColor=white&link=mailto:https://linktr.ee/manjiritare29"/>
 </a>
 <!--  <a href="https://twitter.com/ritikhere307">
